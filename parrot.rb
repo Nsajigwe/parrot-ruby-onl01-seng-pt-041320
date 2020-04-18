@@ -1,4 +1,4 @@
 def parrot(name ="squawk")
   puts name 
-  return 
+  return name
 end
